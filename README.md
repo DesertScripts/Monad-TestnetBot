@@ -17,7 +17,7 @@
 
 # Installation+Run💨
 ```shell
-git clone https://github.com/DesertScripts/MonadTestnetBot
+git clone https://github.com/DesertScripts/Monad-TestnetBot
 cd MonadTestnetBot
 run.bat
 ```
