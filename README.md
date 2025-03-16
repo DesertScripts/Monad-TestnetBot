@@ -1,5 +1,5 @@
 # Monad Testnet automation python script ![image](https://github.com/user-attachments/assets/2effaf85-30b9-4bff-a4bb-a37d19b3af4c)
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/+9j5RcKMfT5s4M2Q0) <sup>join our tg chat</sup>
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/+9tNCcKU3fU1lZDc0) <sup>join our tg chat</sup>
 
 # Recommendations before use:
 ## ❗❗USE PYTHON 3.10❗❗
